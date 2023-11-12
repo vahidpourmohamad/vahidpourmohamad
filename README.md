@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vahidpoormohamad2](https://medium.com/@vahidpoormohamad2)
 
-- 💬 Ask me about **React - Sql - MongoDb -Java Script**
+- 💬 Ask me about **React - Sql - MongoDb -Java Script -C# -WPF**
 
 - 📫 How to reach me **vahidpoormohamad2@gmail.com**
 
